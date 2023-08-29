@@ -76,4 +76,4 @@ rake webhook:set[token]    # Set webhook for a given token
 
 ## Credits/Contributing/Contact
 * [Telegram BOT webhook rake server](https://github.com/solyaris/BOTServer)
-* [Telegram BOT wrapper] (https://github.com/atipugin/telegram-bot-ruby)
+* [Telegram BOT wrapper](https://github.com/atipugin/telegram-bot-ruby)
