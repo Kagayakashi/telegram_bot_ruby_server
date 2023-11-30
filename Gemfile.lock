@@ -31,8 +31,13 @@ GEM
     faraday-multipart (1.0.4)
       multipart-post (~> 2)
     faraday-net_http (3.0.2)
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
     ice_nine (0.11.2)
+    mini_mime (1.1.5)
     multi_json (1.15.0)
+    multi_xml (0.6.0)
     multipart-post (2.3.0)
     oj (3.16.0)
     rack (2.2.8)
@@ -54,6 +59,7 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   colorizer
+  httparty
   multi_json
   oj
   rack

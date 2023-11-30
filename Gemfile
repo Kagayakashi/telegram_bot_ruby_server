@@ -14,3 +14,4 @@ gem 'rack'
 
 # Telegram Bot API
 gem 'telegram-bot-ruby'
+gem 'httparty'
